@@ -2,5 +2,11 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/utilisateur/Desktop/lib websocket/chat_lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/utilisateur/Desktop/lib websocket/chat_lib/http-20070405.jar"/>
+	<classpathentry kind="lib" path="C:/Users/utilisateur/Desktop/lib websocket/chat_lib/jansi-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/utilisateur/Desktop/lib websocket/chat_lib/logback-classic-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/utilisateur/Desktop/lib websocket/chat_lib/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/utilisateur/Desktop/lib websocket/chat_lib/slf4j-api-1.7.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
