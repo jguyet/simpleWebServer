@@ -60,7 +60,7 @@ public class WebServer implements Runnable{
 
 				if (!addr.equalsIgnoreCase(""))
 				{
-					_clients.add(new Client(_clients.size(), client));
+					_clients.add(new Client(client));
 				}
 				else
 				{
